@@ -2,25 +2,11 @@
   <div class="flex flex-col items-center justify-center min-h-screen bg-gray-900">
 
 
-    <div class="mt-8 text-center">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150" class="h-32 w-32 mx-auto">
-        <!-- Círculo rojo -->
-        <circle cx="50" cy="50" r="40" fill="#FF0000" />
-
-        <circle cx="150" cy="50" r="30" fill="#FF00FF" />
-        <rect x="80" y="10" width="40" height="80" fill="#FFFF00" />
-
-
-        <!-- Rectángulo verde -->
-        <rect x="110" y="30" width="60" height="40" fill="#00FF00" />
-
-        <!-- Triángulo azul -->
-        <polygon points="80,130 120,130 100,170" fill="#0000FF" />
-
-        <!-- Línea negra -->
-        <line x1="20" y1="180" x2="180" y2="20" stroke="#000000" stroke-width="5" />
-
-        <text x="60" y="35" font-family="Arial" font-size="22" font-weight="bold" fill="#FFFFFF">Special AI</text>
+    <div class="w-300 h-300 mb-20 mt-300  text-center w-200 h-124">
+      <svg data-v-2a183b29="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" class="h-32 w-64mx-auto">
+        <circle data-v-2a183b29="" cx="45" cy="35" r="20" fill="#335599"></circle>
+        <rect data-v-2a183b29="" x="50" y="5" width="40" height="65" fill="#FFFF00"></rect> <text data-v-2a183b29=""
+          x="50" y="35" font-family="Arial" font-size="40" font-weight="bold" fill="#077378">SpecialAI</text>
       </svg>
     </div>
 
